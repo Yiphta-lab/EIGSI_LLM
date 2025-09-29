@@ -19,7 +19,7 @@
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/draner/WebinarLLM.git](https://github.com/Yiphta-lab/EIGSI_LLM.git
+git clone https://github.com/Yiphta-lab/EIGSI_LLM.git
 cd EIGSI_LLM
 ```
 

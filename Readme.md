@@ -62,5 +62,5 @@ rag-streamlit-app/
 ├── pyproject.toml       # Configuration du projet et dépendances
 ├── README.md            # Ce fichier
 └── rag_app/             # Code source de l'application
-    └── app.py           # Application Streamlit principale
+    └── rag_atelier.py           # Application Streamlit principale
 ```

@@ -52,7 +52,7 @@ ollama pull nomic-embed-text
 ### Lancer l'application
 
 ```bash
-uv run streamlit run rag_app/app.py
+uv run streamlit run rag_app/rag_atelier.py
 ```
 
 ## Structure du projet

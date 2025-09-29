@@ -58,7 +58,7 @@ uv run streamlit run rag_app/rag_atelier.py
 ## Structure du projet
 
 ```sh
-rag-streamlit-app/
+EIGSI_LLM/
 ├── pyproject.toml       # Configuration du projet et dépendances
 ├── README.md            # Ce fichier
 └── rag_app/             # Code source de l'application

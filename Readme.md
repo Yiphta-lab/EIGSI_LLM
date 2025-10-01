@@ -1,3 +1,10 @@
+## ℹ️ Note importante pour les utilisateurs Windows
+
+Ollama n’est pas encore disponible nativement sous Windows.  
+Pour exécuter cette application, vous devez d’abord installer **WSL2 (Windows Subsystem for Linux)** avec Ubuntu.  
+
+👉 Guide officiel pour installer WSL : [https://learn.microsoft.com/fr-fr/windows/wsl/install](https://learn.microsoft.com/fr-fr/windows/wsl/install)
+
 # Application RAG avec Ollama et Streamlit
 
 ## Fonctionnalités

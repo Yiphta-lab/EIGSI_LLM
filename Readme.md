@@ -72,6 +72,9 @@ uv run python3 assistant_excel_atelier.py
 EIGSI_LLM/
 ├── pyproject.toml       # Configuration du projet et dépendances
 ├── README.md            # Ce fichier
-└── rag_app/             # Code source de l'application
-    └── rag_atelier.py           # Application Streamlit principale
+└── rag_atelier.py            # Application Streamlit principale
+└── text_to_sql_atelier.py         # Application Streamlit principale
+└── prompting_atelier.py         # Application Streamlit principale
+└── assistant_excel_atelier.py         # Application Streamlit principale
+
 ```

@@ -56,10 +56,14 @@ ollama pull nomic-embed-text
 
 ## Utilisation
 
-### Lancer l'application
+### Lancer les exercices
 
 ```bash
-uv run streamlit run rag_app/rag_atelier.py
+uv run streamlit run rag_atelier.py
+uv run python3 rag_atelier.py
+uv run python3 text_to_sql_atelier.py
+uv run python3 prompting_atelier.py
+uv run python3 assistant_excel_atelier.py
 ```
 
 ## Structure du projet
